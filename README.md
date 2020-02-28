@@ -14,3 +14,8 @@
 <h2>ICP5</h2> 
 <br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/ICP_5">ICP_5 Source Code Link</a>  <br>
 <b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/ICP-5">ICP_5 WIKI PAGE Link</a> <br>
+<h2>ICP6</h2> 
+<br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/ICP_6">ICP_6 Source Code Link</a>  <br>
+<b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/ICP-6">ICP_6 WIKI PAGE Link</a> <br>
+
+
