@@ -1,6 +1,6 @@
 # CS5590_Python_DL
 <h2>LAB_1</h2> 
-<br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/LAB_1
+<br><b>LAB_1 LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/LAB_1
 ">LAB_1 Link</a>  <br>
 <b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/LAB_1">LAB_1 WIKI PAGE Link</a> <br>
 
