@@ -29,6 +29,7 @@ km.fit(x)
 
 # predict the cluster for each data point
 y_cluster_kmeans = km.predict(x)
+
 from sklearn import metrics
 score = metrics.silhouette_score(x, y_cluster_kmeans)
 print(score)
