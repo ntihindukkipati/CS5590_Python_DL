@@ -26,6 +26,6 @@
 <br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/ICP_7/SOURCE_CODE">ICP_7 Source Code Link</a>  <br>
 <b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/ICP-7">ICP_7 WIKI PAGE Link</a> <br>
 
-<h2>ICP7</h2> 
+<h2>MICP1</h2> 
 <br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/MICP_1">MICP_1 Source Code Link</a>  <br>
 <b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/MICP_1">MICP_1 WIKI PAGE Link</a> <br>
