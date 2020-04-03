@@ -29,3 +29,10 @@
 <h2>MICP1</h2> 
 <br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/MICP_1">MICP_1 Source Code Link</a>  <br>
 <b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/MICP_1">MICP_1 WIKI PAGE Link</a> <br>
+
+<h2>MICP2</h2> 
+<br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/MICP_2">MICP_2 Source Code Link</a>  <br>
+<b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/MICP_2
+">MICP_2 WIKI PAGE Link</a> <br>
+
+
