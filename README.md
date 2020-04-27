@@ -5,6 +5,11 @@
 <b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/LAB_1">LAB_1 WIKI PAGE Link</a> <br>
 <h2>PROJECT_INCREMENT_1</h2> 
 <br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/Project_Increment_1">Project_Increment_1 Source Code Link</a>  <br>
+<h2>PROJECT_INCREMENT_2</h2> 
+<br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/Project_Increment_2">Project_Increment_2 Source Code Link</a>  <br>
+<br><b>SOURCE CODE LINK FOR ANGULAR APPLICATION</b> &nbsp; <a href="https://github.com/Nikhitha8563/Python_Pro_UI">Project_Increment_2 Source Code Link for Angular application</a>  <br>
+<br><b>WIKI PAGE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/PROJECT_INCREMENT_2">Project_Increment_2 WIKI LINK </a>  <br>
+
 
 <h2>ICP1</h2>
 <br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/ICP_1"> ICP_1  Source Code Link</a><br>
