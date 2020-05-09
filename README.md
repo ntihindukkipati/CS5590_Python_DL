@@ -12,7 +12,7 @@
 
 <h2>PROJECT FINAL V3</h2> 
 <br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/Project_Final_Increment">Project_Final Source Code Link</a>  <br>
-br><b>SOURCE CODE LINK FOR ANGULAR APPLICATION</b> &nbsp; <a href="https://github.com/Nikhitha8563/Python_Pro_UI">Project_Increment_2 Source Code Link for Angular application</a>  <br>
+<br><b>SOURCE CODE LINK FOR ANGULAR APPLICATION</b> &nbsp; <a href="https://github.com/Nikhitha8563/Python_Pro_UI">Project_Increment_2 Source Code Link for Angular application</a>  <br>
 <br><b>WIKI PAGE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/PROJECT_FINAL_REPORT">Project Final WIKI LINK </a>  <br>
 
 
