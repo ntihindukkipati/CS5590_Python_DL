@@ -3,6 +3,14 @@
 <br><b>LAB_1 LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/LAB_1
 ">LAB_1 Link</a>  <br>
 <b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/LAB_1">LAB_1 WIKI PAGE Link</a> <br>
+<h2>LAB_2</h2> 
+<br><b>LAB_2 LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/LAB_2
+">LAB_2 Link</a>  <br>
+<b> WIKI LINK</b> &nbsp;<a href="https://github.com/ntihindukkipati/CS5590_Python_DL/wiki/LAB_2">LAB_2 WIKI PAGE Link</a> <br>
+
+
+
+
 <h2>PROJECT_INCREMENT_1</h2> 
 <br><b>SOURCE CODE LINK</b> &nbsp; <a href="https://github.com/ntihindukkipati/CS5590_Python_DL/tree/master/Project_Increment_1">Project_Increment_1 Source Code Link</a>  <br>
 <h2>PROJECT_INCREMENT_2</h2> 
